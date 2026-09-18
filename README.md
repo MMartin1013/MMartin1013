@@ -3,8 +3,7 @@
 Product-Minded Full-Stack Engineer & Startup Co-Founder based in Washington DC-Baltimore Area
 
 - 🚀 **Currently:** Full-Stack Software Engineer at Pluralsight & building mobile/AI apps
-- 🛠️ **Co-Founder Experience:** Architected zero-to-one web, mobile (Flutter), and AI (RAG) platforms at NECX
-- 🧠 **Focus Areas:** Full-Stack Web Dev, AI Agent Workflows, Cloud Infrastructure, and Observability
+- 🛠️ **Check out my portfolio**: [Here](https://portfolio.manolo-martin.workers.dev/)
 - 📫 **Contact:** manolo.martin.dev@gmail.com | [LinkedIn](https://linkedin.com/in/manolomartin)
 
 ---
